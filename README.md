@@ -109,4 +109,4 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 ## RESULT
 
-The result of the transfer learning implementation using VGG-19 architecture is the successful classification of images from the given dataset. The model achieved reliable performance metrics, including accuracy, precision, recall, and F1-score. Additionally, training and validation loss plots, confusion matrices, and sample predictions visually demonstrate the model’s effectiveness.
+The VGG-19 transfer learning model was successfully implemented and trained. It achieved good classification performance with minimized training and validation losses, accurate predictions, and satisfactory evaluation metrics
